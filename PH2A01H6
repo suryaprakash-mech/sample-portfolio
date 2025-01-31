@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="https://r.mobirisesite.com/1004740/assets/images/photo-1602103558753-52bed7d0eb56.jpeg" type="image/x-icon">
+  <meta name="description" content="Explore the impressive portfolio of Suryaprakash, a dedicated Mechanical Engineer showcasing skills, projects, and achievements in the engineering field.">
+  <title>Suryaprakash Portfolio</title>
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/web/assets/mobirise-icons2/mobirise2.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/bootstrap/css/bootstrap.min.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/bootstrap/css/bootstrap-grid.min.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/bootstrap/css/bootstrap-reboot.min.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/parallax/jarallax.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/dropdown/css/style.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/smart-cart/minicart-theme.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/socicon/css/styles.css?rnd=1734263692594">
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/theme/css/style.css?rnd=1734263692594">
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;700&display=swap&display=swap"></noscript>
+  <link rel="stylesheet" href="https://r.mobirisesite.com/1004740/assets/css/mbr-additional.css?rnd=1734263692594" type="text/css">
+  
+  
+  
+  
+
+
+<style>
+.navbar-fixed-top {
+  top: auto;
+}
+#mobirisePromo.container-banner {
+  height: 8rem;
+  opacity: 1;
+  -webkit-animation: 11s linear animationHeight;
+  -moz-animation: 11s linear animationHeight;
+    -o-animation: 11s linear animationHeight;
+       animation: 11s linear animationHeight;
+       transition: all  0.5s;
+}
+#mobirisePromo.container-banner.container-banner-closing {
+  pointer-events: none;
+  height: 0;
+  opacity: 0;
+  -webkit-animation: 0.5s linear animationClosing;
+  -moz-animation:  0.5s linear animationClosing;
+    -o-animation:  0.5s linear animationClosing;
+       animation:  0.5s linear animationClosing;
+}
+#mobirisePromo .banner {
+  min-height: 8rem;
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 10px;
+  opacity:1;
+  -webkit-animation: 11s linear animationBanner;
+  -moz-animation: 11s linear animationBanner;
+    -o-animation: 11s linear animationBanner;
+       animation: 11s linear animationBanner;
+  z-index: 1031;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#mobirisePromo .banner p {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  animation: none;
+  visibility: visible;
+}
+#mobirisePromo .buy-license {
+  text-decoration: underline;
+}
+#mobirisePromo .banner .btn {
+  margin: 0.3rem 0.5rem;
+  animation: none;
+  visibility: visible;
+}
+.navbar.opened {
+    z-index: 1032;
+}
+@-webkit-keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 91% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+@-moz-keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 91% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+@-o-keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 91% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+   @keyframes animationBanner { 0% { opacity: 0; top: -8rem; } 91% { opacity: 0; top: -8rem; } 100% { opacity: 1; top: 0; } }
+@-webkit-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 8rem; } }
+@-moz-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 8rem; } }
+@-o-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 8rem; } }
+   @keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 8rem; } }
+
+@-webkit-keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@-moz-keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@-o-keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@keyframes animationClosing { 0% { height: 8rem; opacity: 1; } 30% { height: 8rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+
+@media(max-width: 767px) {
+  #mobirisePromo.container-banner {
+    height: 12rem;
+  }
+  #mobirisePromo .banner {
+    min-height: 12rem;
+  }
+  @-webkit-keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 91% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+  @-moz-keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 91% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+  @-o-keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 91% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+    @keyframes animationBanner { 0% { opacity: 0; top: -12rem; } 91% { opacity: 0; top: -12rem; } 100% { opacity: 1; top: 0; } }
+  @-webkit-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 12rem; } }
+  @-moz-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 12rem; } }
+  @-o-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 12rem; } }
+    @keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 12rem; } }
+
+  @-webkit-keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @-moz-keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @-o-keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @keyframes animationClosing { 0% { height: 12rem; opacity: 1; } 30% { height: 12rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+}
+</style>
+</head>
+<body>
+<div class="container-banner" id="mobirisePromo">
+  <div class="banner align-center">
+    <button type="button" onclick="document.getElementById('mobirisePromo').classList.add('container-banner-closing')" class="btn-close" aria-label="Close" style="position: fixed;top: 16px;right: 16px;"></button>
+    <p class="mbr-text mbr-fonts-style display-7">The site was made with <a href="https://mobirise.com/builder/ai-website-builder.html" class="">Free AI Website Builder</a></p>
+    <div class="mbr-section-btn">
+      <a class="btn btn-sm btn-primary display-4" href="https://mobirise.com/p/">Get AI Kit!</a>
+      <a class="btn btn-sm btn-secondary display-4" href="https://my.mobirise.com/buy.php?p=126&u=3647083&st=1004740&dm=1004740surya.mobirisesite.com">Remove This Banner</a>
+    </div>
+  </div>
+</div>
+  
+  <section data-bs-version="5.1" class="menu menu2 cid-ux1kgv2KE9" once="menu" id="menu-5-ux1kgv2KE9">
+	
+
+	<nav class="navbar navbar-dropdown navbar-expand-lg">
+		<div class="container">
+			<div class="navbar-brand">
+				<span class="navbar-logo">
+					<a href="#">
+						<img src="https://r.mobirisesite.com/1004740/assets/images/photo-1602103558753-52bed7d0eb56.jpeg" alt="" style="height: 4.1rem;">
+					</a>
+				</span>
+				<span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="#">S.SURYAPRAKASH .B.E.,</a></span>
+			</div>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<div class="hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown">
+						<a class="nav-link link text-black dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" data-bs-toggle="dropdown" data-bs-auto-close="outside">Contact</a><div class="dropdown-menu" data-bs-popper="none" aria-labelledby="dropdown-579"><a class="text-black dropdown-item display-4" href="#">+91&nbsp; 8610418067</a></div>
+					</li><li class="nav-item dropdown">
+						<a class="nav-link link text-black dropdown-toggle display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu" data-bs-toggle="dropdown" data-bs-auto-close="outside">Skills</a><div class="dropdown-menu" aria-labelledby="dropdown-581"><a class="text-black show dropdown-item display-4" href="#" aria-expanded="true" data-bs-toggle="dropdown" data-bs-auto-close="outside">* MASTER in Computer Aided Design</a><a class="text-black dropdown-item display-4" href="#" aria-expanded="false">*&nbsp; Programming languages:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-PYTHON<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-HTML<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-CSS<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-JS</a></div>
+					</li><li class="nav-item dropdown">
+						<a class="nav-link link text-black dropdown-toggle show display-4" href="#" data-toggle="dropdown-submenu" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="true">About</a><div class="dropdown-menu show" aria-labelledby="dropdown-731" data-bs-popper="none"><a class="text-black dropdown-item display-4" href="#">2nd&nbsp; Year MECHANICAL ENGINEERIG,<br>&nbsp; St.Joseph's Institute Of Technology,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;OMR,Chennai..</a></div>
+					</li></ul>
+				
+				<div class="navbar-buttons mbr-section-btn"><a class="btn btn-primary display-4" href="#"><span class="socicon socicon-skype mbr-iconfont mbr-iconfont-btn" style="color: rgb(0, 0, 0);"></span></a></div>
+			</div>
+		</div>
+	</nav>
+</section>
+
+<section data-bs-version="5.1" class="header18 cid-ux1kgv3bsU mbr-fullscreen mbr-parallax-background" id="hero-16-ux1kgv3bsU">
+  
+
+  <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="content-wrap col-12 col-md-12">
+        <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">
+          <strong>Mechanical Engineering</strong></h1>
+        
+        <p class="mbr-fonts-style mbr-text mbr-white mb-4 display-7">Intrested In Designing &amp; Software Development</p>
+        <div class="mbr-section-btn"><a class="btn btn-white-outline display-7" href="#">Explore More</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="gallery07 cid-ux1kgv5Qoz" id="gallery-16-ux1kgv5Qoz">
+  
+  
+  <div class="container-fluid gallery-wrapper">
+    <div class="row justify-content-center">
+      <div class="col-12 content-head">
+        <div class="mbr-section-head mb-5">
+          <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+            <strong>Engineering Marvels Unleashed</strong>
+          </h4>
+          
+        </div>
+      </div>
+    </div>
+    <div class="grid-container">
+      <div class="grid-container-3 moving-left" style="transform: translate3d(-200px, 0px, 0px);">
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/1004740/assets/images/photo-1453928582365-b6ad33cbc-h_m4pjc8o6.jpg" alt="">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/1004740/assets/images/photo-1519389950473-47ba02777-h_m4pjaq4n.jpg" alt="">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/1004740/assets/images/photo-1498050108023-c5249f4df-h_m4pjbma1.jpg" alt="">
+        </div>
+        <div class="grid-item">
+          <img src="https://r.mobirisesite.com/1004740/assets/images/photo-1683818051102-dd1199d16-h_m4pjks1s.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="features023 cid-ux1kgv6QFg" id="metrics-1-ux1kgv6QFg">
+
+    
+
+    
+    
+    <div class="container">
+        
+        <div class="row content-row justify-content-center">
+            <div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb">
+                <div class="item-wrapper">
+                    <div class="title mb-2 mb-md-3">
+                        <span class="num mbr-fonts-style display-1"><strong>08+</strong></span>
+                    </div>
+                    <h4 class="card-title mbr-fonts-style display-5"><strong>Certification Completed</strong>
+                    </h4>
+                    
+                </div>
+            </div>
+            <div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb">
+                <div class="item-wrapper">
+                    <div class="title mb-2 mb-md-3">
+                        <span class="num mbr-fonts-style display-1"><strong>03</strong></span>
+                    </div>
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        <strong>Internships Secured</strong>
+                    </h4>
+                    
+                </div>
+            </div>
+            <div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb">
+                <div class="item-wrapper">
+                    <div class="title mb-2 mb-md-3">
+                        <span class="num mbr-fonts-style display-1"><strong>02</strong></span>
+                    </div>
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        <strong>Awards Won</strong>
+                    </h4>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="gallery10 cid-ux1kgv7hMs" id="features-61-ux1kgv7hMs">
+  
+
+
+  <div class="container-fluid">
+
+      <div class="loop-container">
+        <div class="item display-1" data-linewords="Creative Solutions * Innovative Designs * Hands-On Experience * Team Collaboration * Technical Expertise * Future Ready *" data-direction="-1" data-speed="0.05">☁️ Best offers ☁️ Free delivery ☁️ Perfect design ☁️ Comfort ☁️ Support 24/7 ☁️ Vibes</div>
+
+        <div class="item display-1" data-linewords="Creative Solutions * Innovative Designs * Hands-On Experience * Team Collaboration * Technical Expertise * Future Ready *" data-direction="-1" data-speed="0.05">☁️ Best offers ☁️ Free delivery ☁️ Perfect design ☁️ Comfort ☁️ Support 24/7 ☁️ Vibes</div>
+      </div>
+    
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="social4 cid-ux1kgv71kZ" id="follow-us-1-ux1kgv71kZ">
+    
+    
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-12">
+                <h3 class="mbr-section-title align-center mb-5 mbr-fonts-style display-2">
+                    <strong>Connect With Us</strong>
+                </h3>
+                <div class="social-list align-center">
+                    <a class="iconfont-wrapper bg-facebook m-2 " href="mailto:surya.mayy@gmail.com">
+                        <span class="socicon-google socicon"></span>
+                    </a>
+                    <a class="iconfont-wrapper bg-twitter m-2" href="https://wa.me/91  8610418067">
+                        <span class="socicon-whatsapp socicon"></span>
+                    </a>
+                    <a class="iconfont-wrapper bg-instagram m-2" href="https://www.instagram.com/surya._.official.___/profilecard/?igsh=MTc4NndhaDhidXhrNA==" target="_blank">
+                        <span class="socicon-instagram socicon"></span>
+                    </a>
+                    
+                    
+                    
+                    
+                    
+                    <a class="iconfont-wrapper bg-tiktok m-2" href="https://www.linkedin.com/in/suryaprakash-s-2922472a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+                        <span class="socicon-logmein socicon"></span>
+                    </a>
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="contacts01 cid-ux1kgv9UlZ" id="contacts-1-ux1kgv9UlZ">
+    
+
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 content-head">
+                <div class="mbr-section-head mb-5">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                        <strong>Contact Me</strong>
+                    </h3>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="item features-without-image col-12 col-md-6 active">
+                <div class="item-wrapper">
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-3 display-5">
+                            <strong>Phone</strong>
+                        </h6>
+                        <p class="mbr-text mbr-fonts-style display-7">+91&nbsp; 86104108067</p>
+                    </div>
+                </div>
+            </div>
+            <div class="item features-without-image col-12 col-md-6">
+                <div class="item-wrapper">
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-3 display-5">
+                            <strong>Email</strong>
+                        </h6>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <a href="mailto:suryaprakash.be@example.com" class="text-black">surya</a>.mayy@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="item features-without-image col-12 col-md-6">
+                <div class="item-wrapper">
+                    <div class="text-wrapper">
+                        <h6 class="card-title mbr-fonts-style mb-3 display-5">Reach Us<br></h6>
+                        <p class="mbr-text mbr-fonts-style display-7">&nbsp;3/1128 A, Dharmaraja Kovil Street, Sathiya Vijaya Nagaram, Arni , Thiruvannamalai - 632317<br></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="footer3 cid-ux1kgvaFo7" once="footers" id="footer-6-ux1kgvaFo7">
+
+        
+
+    
+
+    <div class="container">
+        <div class="row">
+            <div class="row-links">
+                <ul class="header-menu">
+                  
+                  
+                  
+                  
+                <li class="header-menu-item mbr-fonts-style display-5">
+                    <a href="#" class="text-white">Home</a>
+                  </li><li class="header-menu-item mbr-fonts-style display-5">
+                    <a href="#" class="text-white">Portfolio</a>
+                  </li><li class="header-menu-item mbr-fonts-style display-5">
+                    <a href="#" class="text-white">Contact</a>
+                  </li><li class="header-menu-item mbr-fonts-style display-5">
+                    <a href="#" class="text-white">About</a>
+                  </li></ul>
+              </div>
+
+            
+            <div class="col-12 mt-4">
+                <p class="mbr-fonts-style copyright display-7">© 2024 Suryaprakash. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="https://r.mobirisesite.com/1004740/assets/web/assets/jquery/jquery.min.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/bootstrap/js/bootstrap.bundle.min.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/parallax/jarallax.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/smoothscroll/smooth-scroll.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/ytplayer/index.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/dropdown/js/navbar-dropdown.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/smart-cart/minicart.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/smart-cart/minicart-customizer.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/scrollgallery/scroll-gallery.js?rnd=1734263692594"></script>
+  <script src="https://r.mobirisesite.com/1004740/assets/theme/js/script.js?rnd=1734263692594"></script>
+  
+  
+  
+
+</body>
+</html>
